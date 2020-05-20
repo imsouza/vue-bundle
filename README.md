@@ -1,4 +1,4 @@
-# vue-template
+# Vue Bundle
 A personal Vue bundle for web applications
 
 ## Usage
